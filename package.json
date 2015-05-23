@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/lakowske/email-service/issues"
   },
-  "homepage": "https://github.com/lakowske/email-service"
+  "homepage": "https://github.com/lakowske/email-service",
+  "dependencies": {
+    "service-directory": "file:../../../var/folders/gk/dcd9vx2n3yqbfmtnjshrch6r0000gp/T/npm-45408-026e6eb9/git-cache-2a2de49380ae/9fde5048be59b69744fc519ae8295586015a95f4"
+  }
 }
